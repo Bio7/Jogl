@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="I:/Bio7_3.0_Release_Test/Bio7/Bio7_3.0_win64/plugins/com.eco.bio7.libs_2.5.0"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jogl-all.jar"/>
+	<classpathentry kind="lib" path="gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
